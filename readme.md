@@ -1,5 +1,7 @@
 # Vue 3 - Composition API
 
+O objetivo desse projeto exemplo é complementar o projeto **vue-3-options-api** com as possibilidades e diferenças do **Vue 3 - Composition API**
+
 ## Projects Setup
 
 ```sh
