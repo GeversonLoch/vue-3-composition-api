@@ -23,5 +23,3 @@ $ npm run dev
 1. basic-project
 2. single-file-components
 3. reactivity-state-fundamentals
-4. template-syntax
-5. conditional-rendering
